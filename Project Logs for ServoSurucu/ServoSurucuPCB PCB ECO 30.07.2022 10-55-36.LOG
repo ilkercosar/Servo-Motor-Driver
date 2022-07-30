@@ -1,0 +1,6 @@
+Removed Member From Class: ClassName=U_pwmIC Member=R7
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(255, 110, 110)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(255, 110, 110)
+Added Member To Class: ClassName=U_optoControl Member=Component R4 Res Semi
+Added Member To Class: ClassName=U_optoControl Member=Component R6 Res Semi
+Added Member To Class: ClassName=U_pwmIC Member=Component R8 Res Semi
